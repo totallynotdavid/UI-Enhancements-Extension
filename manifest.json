@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "UI Enhancements",
+    "version": "0.1",
+    "content_scripts": [
+        {
+            "matches": ["https://www.github.com/*"],
+            "js": ["content.js"]
+        }
+    ]
+}
