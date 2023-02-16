@@ -5,9 +5,15 @@ Esta es una extensión de navegador para navegadores basados en Chromium que mej
 - Muestra los atajos de teclado al menú de navegación de Github.
 - Permite al usuario desactivar la inyección de CSS personalizado en las páginas de Github.
 
-*Captura de pantalla (15/02/2023):*
+<br>
+<p align="center">
+    <img src="https://i.imgur.com/7XAFr5y.png" height="115">
+</p>
+<br>
 
-<img src="https://i.imgur.com/7XAFr5y.png" height="115">
+---
+
+<br>
 
 La extensión está implementada en JavaScript, utilizando la API de extensiones de Chrome. Consta de los siguientes archivos
 
@@ -28,6 +34,11 @@ Para instalar la extensión, siga estos pasos:
 3. Activa el "Modo desarrollador" en la esquina superior derecha.
 4. Haz clic en "Cargar desempaquetada" y selecciona la carpeta en la que descargaste la extensión.
 5. La extensión debería aparecer ahora en la lista de extensiones instaladas.
+
+<br>
+<p align="center">
+    <img src="https://i.imgur.com/5xEgsNp.png">
+</p>
 
 ## Uso
 
